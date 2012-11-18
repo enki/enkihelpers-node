@@ -1,0 +1,21 @@
+{
+  "name": "enkihelpers",
+  "version": "0.0.1",
+  "description": "super basic helpers for node",
+  "main": "enkihelpers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/enki/enkihelpers-node.git"
+  },
+  "keywords": [
+    "helpers",
+    "basic",
+    "enki"
+  ],
+  "author": "Paul Bohm <enki@bbq.io> (http://paulbohm.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
